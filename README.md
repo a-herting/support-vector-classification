@@ -1,2 +1,2 @@
-# support-vector-classification
-SVM is one of 3 algorithms used in linear binary classfication. SVM is used in this project to create a hyperplane that best separates the different of classes of data in this project (dog breeds) based upon weight and height. ). 
+# Support-Vector-Classification
+SVM is one of 3 algorithms used in linear binary classfication. SVM is used in this project to create a hyperplane that best separates the different of classes of data in this project (dog breeds) based upon weight and height. A hyperplane is a straight line that separates data points in to however many categories are in the dataset. More details about SVC can be found [here]([url](https://medium.com/mlearning-ai/making-sense-of-support-vector-machines-svm-mathematical-explanation-560eb87a7b8)). 
